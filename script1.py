@@ -1,3 +1,3 @@
 print('Hello GitHub')
-print('Git Demonstration on command pallet')
+print('Git Demonstration on command pallet with conflict also.')
 
